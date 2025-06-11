@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+
+# Cypress cache
+.cypress-cache/
+.cache/
+
+# Ambiente local
+dist/
+build/
+
+# Configuração de IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de sistema do Windows
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Pastas criadas por Live Server/ builds locais
+live-server-web-extension/
