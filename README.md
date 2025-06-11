@@ -8,13 +8,21 @@ Este repositório contém testes automatizados para a aplicação **Helpdesk**, 
 
 cypress/
 ├── e2e/
+
 │ ├── api/
+
 │ │ ├── login.cy.js
+
 │ │ ├── register.cy.js
+
 │ │ ├── tickets.cy.js
+
 │ │ └── users.cy.js
+
 │ └── ui/
+
 │ ├── login/
+
 │ │ ├── login_ui.cy.js
 │ │ └── register_ui.cy.js
 │ ├── tickets/
