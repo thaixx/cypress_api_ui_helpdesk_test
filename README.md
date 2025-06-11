@@ -7,6 +7,7 @@ Este repositório contém testes automatizados para a aplicação **Helpdesk**, 
 ## 📁 Estrutura do Projeto
 
 cypress/
+
 ├── e2e/
 
 │ ├── api/
@@ -24,17 +25,29 @@ cypress/
 │ ├── login/
 
 │ │ ├── login_ui.cy.js
+
 │ │ └── register_ui.cy.js
+
 │ ├── tickets/
+
 │ │ └── tickets_ui.cy.js
+
 │ └── users/
+
 │ └── users_ui.cy.js
+
 ├── fixtures/
+
 ├── support/
+
 ├── .gitignore
+
 ├── cypress.config.js
+
 ├── package.json
+
 └── package-lock.json
+
 
 ---
 
